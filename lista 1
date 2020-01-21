@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1,combate
+http://pl.server.kbravo.xyz/SD_COMBATE/video.m3u8?token=7959873c68d85e86508ea3a53661039b
+#EXTINF:-1,band
+http://us13.server.kcharlie.live/HD_BAND_SPORTS/video.m3u8?token=7959873c68d85e86508ea3a53661039b
